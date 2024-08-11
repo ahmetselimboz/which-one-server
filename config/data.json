@@ -1,0 +1,1210 @@
+[
+    {
+        "title": "Süper Kahramanlardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/superhero.jpg",
+        "description": "Hangi süper kahraman seninle en çok özdeşleşiyor?",
+        "questions": [
+            {
+                "title": "Bir süper gücün olsaydı ne olurdu?",
+                "options": [
+                    {
+                        "text": "Uçmak",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Görünmezlik",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Süper hız",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Kötüleri nasıl durdurursun?",
+                "options": [
+                    {
+                        "text": "Fiziksel güç kullanarak",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Akıl ve teknoloji ile",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Barışçıl yollarla",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir süper kahraman aracı seçecek olsaydın, hangisini seçerdin?",
+                "options": [
+                    {
+                        "text": "Bir jet",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Süper teknoloji bir araç",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Kendi süper güçlerin",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Süper kahraman kostümünde hangi renkler baskın olurdu?",
+                "options": [
+                    {
+                        "text": "Mavi ve kırmızı",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Siyah ve gri",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Altın ve mavi",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir süper kahraman olarak en büyük düşmanın kim olurdu?",
+                "options": [
+                    {
+                        "text": "Kötü bir iş adamı",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Kaos yaratan bir suçlu",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Dünya dışı bir varlık",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir süper kahraman olarak hangi etik anlayışına sahipsin?",
+                "options": [
+                    {
+                        "text": "Adalet her şeyden önce gelir",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Her zaman bir çözüm yolu vardır",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Güçlü olan hayatta kalır",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Süper kahraman olarak en çok korktuğun şey nedir?",
+                "options": [
+                    {
+                        "text": "Sevdiklerini kaybetmek",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 2,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Başarısız olmak",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Düşmanlarına zarar vermek",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Süper kahraman olarak bir gününü nasıl geçirirdin?",
+                "options": [
+                    {
+                        "text": "Gökyüzünde devriye gezerek",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Suçluları yakalamak için plan yaparak",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Barışı sağlamak için diplomatik yollar arayarak",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Süper kahraman olarak en önemli özelliğin nedir?",
+                "options": [
+                    {
+                        "text": "Güç ve dayanıklılık",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Zeka ve strateji",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Cesaret ve adalet duygusu",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En zor durumda bile süper kahraman olarak ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Sonuna kadar savaşırım",
+                        "weights": {
+                            "Superman": 2,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    },
+                    {
+                        "text": "Plan yaparım ve beklerim",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 2,
+                            "Wonder Woman": 1
+                        }
+                    },
+                    {
+                        "text": "Diplomatik bir çözüm ararım",
+                        "weights": {
+                            "Superman": 1,
+                            "Batman": 1,
+                            "Wonder Woman": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Superman": "Sen Superman gibi güçlü ve iyiliksever bir kahramansın.",
+            "Batman": "Sen Batman gibi zeki ve stratejik bir kahramansın.",
+            "Wonder Woman": "Sen Wonder Woman gibi cesur ve adaletli bir kahramansın."
+        }
+    },
+    {
+        "title": "Hayvanlardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/animal.jpg",
+        "description": "Hangi hayvan seni en iyi temsil ediyor?",
+        "questions": [
+            {
+                "title": "Bir hayvan olsaydın, nerede yaşardın?",
+                "options": [
+                    {
+                        "text": "Orman",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Dağlar",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Deniz",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hangi yiyecek seni en çok mutlu eder?",
+                "options": [
+                    {
+                        "text": "Et",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Balık",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 2
+                        }
+                    },
+                    {
+                        "text": "Sebze",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir hayvan olarak gününü nasıl geçirirdin?",
+                "options": [
+                    {
+                        "text": "Avlanarak",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Uçarak ve dünyayı keşfederek",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Sakin sularda yüzerek",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hangi yeteneğe sahip olmak isterdin?",
+                "options": [
+                    {
+                        "text": "Güçlü bir pençe",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Uçma yeteneği",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Su altında nefes alabilme",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir tehlikeyle karşılaştığında ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Savaşırım",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Uçarak kaçarım",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Saklanırım",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Nasıl bir sosyal hayatın olurdu?",
+                "options": [
+                    {
+                        "text": "Küçük bir grupla liderlik ederim",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Tek başıma bağımsız yaşarım",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Sürüyle birlikte hareket ederim",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir hayvan olarak en büyük zayıflığın ne olurdu?",
+                "options": [
+                    {
+                        "text": "Hızım",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Düşmanlar tarafından avlanma riski",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Çevre koşullarına dayanıksızlık",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hangi ortamda kendini daha güvende hissedersin?",
+                "options": [
+                    {
+                        "text": "Ormanın derinliklerinde",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Gökyüzünde",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Sular altında",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir arkadaşını nasıl tanımlarsın?",
+                "options": [
+                    {
+                        "text": "Sadık ve güçlü",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Özgür ve bağımsız",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Sakin ve uyumlu",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En sevdiğin aktivite nedir?",
+                "options": [
+                    {
+                        "text": "Yarışmak",
+                        "weights": {
+                            "Aslan": 2,
+                            "Kartal": 1,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Keşfetmek",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 2,
+                            "Balık": 1
+                        }
+                    },
+                    {
+                        "text": "Yüzmek",
+                        "weights": {
+                            "Aslan": 1,
+                            "Kartal": 1,
+                            "Balık": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Aslan": "Sen Aslan gibi güçlü ve lider ruhlusun.",
+            "Kartal": "Sen Kartal gibi özgürlüğüne düşkün ve keskin gözlemcisin.",
+            "Balık": "Sen Balık gibi sakin ve huzurlu bir ruhsun."
+        }
+    },
+    {
+        "title": "Futbolculardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/football_player.jpg",
+        "description": "Hangi futbolcu seni en iyi temsil eder?",
+        "questions": [
+            {
+                "title": "Futbol sahasında ne yapmayı tercih edersin?",
+                "options": [
+                    {
+                        "text": "Gol atmak",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Savunma yapmak",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Asist yapmak",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir maçta nasıl davranırsın?",
+                "options": [
+                    {
+                        "text": "Liderlik yaparım",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Hızla hücum ederim",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Estetik hareketler yaparım",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Favori futbol stilin nedir?",
+                "options": [
+                    {
+                        "text": "Teknik ve beceri",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Fiziksel güç",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Hız ve çeviklik",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hangi pozisyonda oynamayı tercih edersin?",
+                "options": [
+                    {
+                        "text": "Forvet",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Orta saha",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Savunma",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 1,
+                            "Neymar": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hangi başarıyı kazanmak istersin?",
+                "options": [
+                    {
+                        "text": "Altın Top",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Şampiyonlar Ligi",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Dünya Kupası",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir maçta en önemli an nedir?",
+                "options": [
+                    {
+                        "text": "Gol atma anı",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 2,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Son dakika kurtarışı",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Harika bir asist",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcunun en önemli özelliği nedir?",
+                "options": [
+                    {
+                        "text": "Yetenek",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Çalışkanlık",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Takım ruhu",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol kariyerinde hangi takımı seçerdin?",
+                "options": [
+                    {
+                        "text": "Barcelona",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    },
+                    {
+                        "text": "Real Madrid",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Paris Saint-Germain",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Sahada nasıl bir duruş sergilersin?",
+                "options": [
+                    {
+                        "text": "Sessiz ama etkili",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Güçlü ve kararlı",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Enerjik ve heyecanlı",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol dışında hangi aktiviteyle uğraşırsın?",
+                "options": [
+                    {
+                        "text": "Aile ve arkadaşlarla vakit geçirmek",
+                        "weights": {
+                            "Messi": 2,
+                            "Ronaldo": 1,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Fitness ve antrenman",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 2,
+                            "Neymar": 1
+                        }
+                    },
+                    {
+                        "text": "Sosyal medya ve hayranlarla etkileşim",
+                        "weights": {
+                            "Messi": 1,
+                            "Ronaldo": 1,
+                            "Neymar": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Messi": "Sen Messi gibi yetenekli ve alçakgönüllüsün.",
+            "Ronaldo": "Sen Ronaldo gibi güçlü ve hırslısın.",
+            "Neymar": "Sen Neymar gibi yaratıcı ve eğlencelisin."
+        }
+    },
+    {
+        "title": "Disney Prenseslerinden Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/princess.jpeg",
+        "description": "Hangi Disney prensesi senin ruhunu yansıtıyor?",
+        "questions": [
+            {
+                "title": "Kendini bir kelimeyle tanımla.",
+                "options": [
+                    {
+                        "text": "Cesur",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Meraklı",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Akıllı",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir macera yaşamak istesen, nerede olurdu?",
+                "options": [
+                    {
+                        "text": "Savaş meydanında",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Denizin derinliklerinde",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Eski bir şatoda",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En sevdiğin hobi nedir?",
+                "options": [
+                    {
+                        "text": "Kılıç kullanmak",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Yüzmek",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Kitap okumak",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir arkadaşını nasıl tanımlarsın?",
+                "options": [
+                    {
+                        "text": "Güçlü ve sadık",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Macera dolu ve enerjik",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Düşünceli ve anlayışlı",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir hedefe ulaşmak için en çok neye ihtiyaç duyarsın?",
+                "options": [
+                    {
+                        "text": "Azim ve kararlılık",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Hayal gücü ve cesaret",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Bilgi ve strateji",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir problemle karşılaştığında ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Hemen çözüm üretirim",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Farklı bakış açıları ararım",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Bilgi toplayıp analiz ederim",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En sevdiğin yer neresidir?",
+                "options": [
+                    {
+                        "text": "Doğanın ortasında",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Deniz kenarında",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Kütüphanede",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Birine yardım ederken en çok neye önem verirsin?",
+                "options": [
+                    {
+                        "text": "Cesaret ve kararlılık göstermek",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "İyi niyetle yaklaşmak",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Bilgi ve tavsiye vermek",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En büyük korkun nedir?",
+                "options": [
+                    {
+                        "text": "Sevdiklerimi kaybetmek",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Hayallerimi gerçekleştirememek",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Bilgisiz kalmak",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir prenses olarak en önemli değer nedir?",
+                "options": [
+                    {
+                        "text": "Onur ve sadakat",
+                        "weights": {
+                            "Mulan": 2,
+                            "Ariel": 1,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Özgürlük ve bağımsızlık",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 2,
+                            "Belle": 1
+                        }
+                    },
+                    {
+                        "text": "Bilgi ve anlayış",
+                        "weights": {
+                            "Mulan": 1,
+                            "Ariel": 1,
+                            "Belle": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Mulan": "Sen Mulan gibi cesur ve kararlı birisin.",
+            "Ariel": "Sen Ariel gibi meraklı ve maceraperestsin.",
+            "Belle": "Sen Belle gibi zeki ve kitaplara düşkünsün."
+        }
+    }
+]
