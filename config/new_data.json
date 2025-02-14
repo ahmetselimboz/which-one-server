@@ -1,0 +1,911 @@
+[
+    {
+        "title": "Beşiktaşlı Futbolculardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/besiktas.jpg",
+        "description": "Hangi Beşiktaşlı futbolcu senin karakterinle en çok örtüşüyor?",
+        "questions": [
+            {
+                "title": "Bir futbolcu olsan oyun tarzın ne olurdu?",
+                "options": [
+                    {
+                        "text": "Güçlü ve kararlı bir forvet",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Tekniği yüksek bir 10 numara",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Hızlı ve yetenekli bir kanat oyuncusu",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Maç öncesi motivasyonun nasıl olur?",
+                "options": [
+                    {
+                        "text": "Sessizce odaklanırım",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Müziğin ritmine kendimi kaptırırım",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Takım arkadaşlarımla sohbet ederim",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Gol attığında ilk ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Seyircilere doğru koşarım",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Takım arkadaşlarımı sarılarak kutlarım",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Kendi stilimde özel bir kutlama yaparım",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Takımın zorlu bir maça çıkacak, senin rolün ne olur?",
+                "options": [
+                    {
+                        "text": "Gol yükünü çekerim",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Oyunu kurarım ve atakları yönlendiririm",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Kanatlardan hızlı ataklarla rakibi yıpratırım",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir penaltı atışı yapman gerekse nasıl vururdun?",
+                "options": [
+                    {
+                        "text": "Güçlü bir şutla köşeye",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Teknik bir vuruşla kaleciyi yanıltırım",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Panenka denerim",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En çok hangi futbolcu özelliği seni tanımlar?",
+                "options": [
+                    {
+                        "text": "Fiziksel güç ve hava topları",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Uzun mesafeli şutlar",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Çalım ve hız",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol maçlarında en çok hangi anı yaşamak istersin?",
+                "options": [
+                    {
+                        "text": "Maçın son dakikasında gol atmak",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Frikikten muhteşem bir gol atmak",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Çalımlarla rakibi geçip asist yapmak",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Maç sırasında en çok dikkat ettiğin şey nedir?",
+                "options": [
+                    {
+                        "text": "Rakip defansın boşlukları",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Takım arkadaşlarımın pozisyonları",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Kendi hızım ve çalım yeteneğim",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcu olarak en çok hangi durumdan hoşlanmazsın?",
+                "options": [
+                    {
+                        "text": "Sert müdahaleler ve fauller",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Yavaş tempolu oyun",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Defansın kilitlenmesi ve az fırsat yakalamak",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol kariyerinde en büyük hedefin nedir?",
+                "options": [
+                    {
+                        "text": "Gol kralı olmak",
+                        "weights": {
+                            "Mario Gomez": 2,
+                            "Talisca": 1,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "En iyi oyun kurucu olmak",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 2,
+                            "Quaresma": 1
+                        }
+                    },
+                    {
+                        "text": "Takımın efsanevi oyuncusu olmak",
+                        "weights": {
+                            "Mario Gomez": 1,
+                            "Talisca": 1,
+                            "Quaresma": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Mario Gomez": "Sen Mario Gomez gibi güçlü ve kararlı bir golcüsün.",
+            "Talisca": "Sen Talisca gibi teknik ve zeki bir oyun kurucusun.",
+            "Quaresma": "Sen Quaresma gibi hızlı ve yetenekli bir kanat oyuncususun."
+        }
+    },
+    {
+        "title": "Fenerbahçeli Futbolculardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/fenerbahce.jpg",
+        "description": "Hangi Fenerbahçeli futbolcu senin karakterinle en çok örtüşüyor?",
+        "questions": [
+            {
+                "title": "Futbol sahasında hangi pozisyonda oynamayı tercih edersin?",
+                "options": [
+                    {
+                        "text": "Orta sahada oyunu yönlendiren bir oyuncu",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Kalede takımı savunan bir duvar",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Hücumda bitirici bir forvet",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Maçın kritik anlarında nasıl bir tavır sergilersin?",
+                "options": [
+                    {
+                        "text": "Soğukkanlılıkla oyunu yönetirim",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Takım arkadaşlarımı motive ederim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Her zaman ileriye oynarım ve gol ararım",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir derbi maçında en çok ne yapmayı hayal edersin?",
+                "options": [
+                    {
+                        "text": "Kritik bir gol atmak",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Penaltı kurtararak maçı kazandırmak",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Bitmeyen enerjimle sahada herkesi zorlamak",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcu olarak en büyük gücün nedir?",
+                "options": [
+                    {
+                        "text": "Teknik becerilerim",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Kalecilik yeteneklerim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Fiziksel dayanıklılığım ve azmim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir serbest vuruş kazanıldı, ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Hedefe kilitlenir ve şut çekerim",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Takım arkadaşlarımı organize ederim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Savunma yapmak için geri çekilirim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En iyi futbolcu olmak için hangi özelliği geliştirmek istersin?",
+                "options": [
+                    {
+                        "text": "Oyun zekası ve pas yeteneği",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Refleksler ve hızlı karar verme",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Kondisyon ve dayanıklılık",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol kariyerinde en çok hangi başarınla anılmak istersin?",
+                "options": [
+                    {
+                        "text": "Unutulmaz bir kaptan olmak",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Kritik kurtarışlar yapan bir kaleci olmak",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Hücumun dinamosu olmak",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol sahasında bir rakiple karşılaştığında ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Hızlı paslarla rakibi şaşırtırım",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Sert müdahalelerle rakibimi durdururum",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Gücümü ve hızımı kullanarak rakibimi geçerim",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcu olarak maçın en kritik anı senin için nedir?",
+                "options": [
+                    {
+                        "text": "Maçın kaderini belirleyen son dakika golü",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Zorlu bir şutu kurtararak takımı ayakta tutmak",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "90 dakika boyunca gösterdiğim enerji ve mücadele",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Takımın zor durumda, nasıl bir liderlik sergilersin?",
+                "options": [
+                    {
+                        "text": "Topu kontrol eder ve oyunu sakinleştiririm",
+                        "weights": {
+                            "Alex": 2,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Savunmayı organize eder ve direnci arttırırım",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 2,
+                            "Dirk Kuyt": 1
+                        }
+                    },
+                    {
+                        "text": "Sürekli baskı yaparak rakibi yıpratırım",
+                        "weights": {
+                            "Alex": 1,
+                            "Volkan Demirel": 1,
+                            "Dirk Kuyt": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Alex": "Sen Alex gibi oyun zekası yüksek ve teknik becerileri güçlü bir futbolcusun.",
+            "Volkan Demirel": "Sen Volkan Demirel gibi lider ruhlu ve mücadeleci bir kalecisin.",
+            "Dirk Kuyt": "Sen Dirk Kuyt gibi bitmek bilmeyen enerjisi ve hırsıyla tanınan bir futbolcusun."
+        }
+    },
+    {
+        "title": "Galatasaraylı Futbolculardan Hangisisin?",
+        "imageUrl": "https://image.ahmetselimboz.com.tr/whichone/questions/galatasaray.jpg",
+        "description": "Hangi Galatasaraylı futbolcu senin karakterinle en çok örtüşüyor?",
+        "questions": [
+            {
+                "title": "Futbol sahasında hangi pozisyonda oynamayı tercih edersin?",
+                "options": [
+                    {
+                        "text": "Forvette gol arayan bir oyuncu",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Kalede takımın güvenini sağlayan bir kaleci",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Orta sahada oyunu kuran bir maestro",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Maçın kritik anlarında nasıl bir tavır sergilersin?",
+                "options": [
+                    {
+                        "text": "Golü koklar ve fırsatları değerlendiririm",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Rakiplerin ataklarını engellerim",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Oyun zekamla takımı yönlendiririm",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir derbi maçında en çok ne yapmayı hayal edersin?",
+                "options": [
+                    {
+                        "text": "Son dakika golüyle maçı kazandırmak",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Kritik kurtarışlarla rakibi durdurmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Müthiş bir asist yaparak gol attırmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcu olarak en büyük gücün nedir?",
+                "options": [
+                    {
+                        "text": "Gol sezgisi ve bitiricilik",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Kalecilik yetenekleri ve refleksler",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Oyun zekası ve teknik beceriler",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Serbest vuruş kazanıldığında ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Topa hakim olur ve gol atarım",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Takımı savunmak için hazırlarım",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Uzaktan sert bir şut denerim",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "En iyi futbolcu olmak için hangi özelliği geliştirmek istersin?",
+                "options": [
+                    {
+                        "text": "Gol sezgisi ve pozisyon alma",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Refleksler ve hızlı karar verme",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Oyun zekası ve pas yeteneği",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol kariyerinde en çok hangi başarınla anılmak istersin?",
+                "options": [
+                    {
+                        "text": "Gol kralı olarak tarihe geçmek",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Şampiyonluklar kazanan bir kaleci olmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Sahada bir efsane olmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Futbol sahasında bir rakiple karşılaştığında ne yaparsın?",
+                "options": [
+                    {
+                        "text": "Hızlı hareket edip gol atarım",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Rakibin şutunu kurtarırım",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Akıllıca bir hareketle rakibi ekarte ederim",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bir futbolcu olarak maçın en kritik anı senin için nedir?",
+                "options": [
+                    {
+                        "text": "Gol atarak maçı kazandırmak",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Kritik bir şutu kurtarmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Zekice bir pasla gol attırmak",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Takımın zor durumda, nasıl bir liderlik sergilersin?",
+                "options": [
+                    {
+                        "text": "Topu kontrol eder ve gol ararım",
+                        "weights": {
+                            "Icardi": 2,
+                            "Muslera": 1,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Savunmayı organize eder ve takımın güvenini sağlarım",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 2,
+                            "Hagi": 1
+                        }
+                    },
+                    {
+                        "text": "Oyun kurar ve takım arkadaşlarımı yönlendiririm",
+                        "weights": {
+                            "Icardi": 1,
+                            "Muslera": 1,
+                            "Hagi": 2
+                        }
+                    }
+                ]
+            }
+        ],
+        "results": {
+            "Icardi": "Sen Icardi gibi golcü ve son vuruş ustası bir futbolcusun.",
+            "Muslera": "Sen Muslera gibi takımına güven veren ve kritik kurtarışlar yapan bir kalecisin.",
+            "Hagi": "Sen Hagi gibi saha içinde zeki, teknik becerileri yüksek ve lider ruhlu bir futbolcusun."
+        }
+    }
+    
+    
+    
+]
